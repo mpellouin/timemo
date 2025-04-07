@@ -1,0 +1,159 @@
+{
+  "actions" : [ {
+    "module" : "init",
+    "date" : "2025-04-07T21:32:16.808164816Z",
+    "properties" : {
+      "packageName" : "com.mpellouin.timemo",
+      "projectName" : "timemo",
+      "baseName" : "timemo",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  }, {
+    "module" : "maven-java",
+    "date" : "2025-04-07T21:32:16.903568680Z",
+    "properties" : {
+      "packageName" : "com.mpellouin.timemo",
+      "projectName" : "timemo",
+      "baseName" : "timemo",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  }, {
+    "module" : "prettier",
+    "date" : "2025-04-07T21:32:16.939023648Z",
+    "properties" : {
+      "packageName" : "com.mpellouin.timemo",
+      "projectName" : "timemo",
+      "baseName" : "timemo",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  }, {
+    "module" : "java-base",
+    "date" : "2025-04-07T21:32:17.009890192Z",
+    "properties" : {
+      "packageName" : "com.mpellouin.timemo",
+      "projectName" : "timemo",
+      "baseName" : "timemo",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  }, {
+    "module" : "maven-wrapper",
+    "date" : "2025-04-07T21:32:17.083167026Z",
+    "properties" : {
+      "packageName" : "com.mpellouin.timemo",
+      "projectName" : "timemo",
+      "baseName" : "timemo",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  }, {
+    "module" : "spring-boot",
+    "date" : "2025-04-07T21:32:17.201525324Z",
+    "properties" : {
+      "packageName" : "com.mpellouin.timemo",
+      "projectName" : "timemo",
+      "baseName" : "timemo",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  }, {
+    "module" : "datasource-postgresql",
+    "date" : "2025-04-07T21:32:17.318849461Z",
+    "properties" : {
+      "packageName" : "com.mpellouin.timemo",
+      "projectName" : "timemo",
+      "baseName" : "timemo",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  }, {
+    "module" : "logs-spy",
+    "date" : "2025-04-07T21:32:17.403503838Z",
+    "properties" : {
+      "packageName" : "com.mpellouin.timemo",
+      "projectName" : "timemo",
+      "baseName" : "timemo",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  }, {
+    "module" : "spring-boot-mvc-empty",
+    "date" : "2025-04-07T21:32:17.484044884Z",
+    "properties" : {
+      "packageName" : "com.mpellouin.timemo",
+      "projectName" : "timemo",
+      "baseName" : "timemo",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  }, {
+    "module" : "jpa-postgresql",
+    "date" : "2025-04-07T21:32:17.581456097Z",
+    "properties" : {
+      "packageName" : "com.mpellouin.timemo",
+      "projectName" : "timemo",
+      "baseName" : "timemo",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  }, {
+    "module" : "liquibase",
+    "date" : "2025-04-07T21:32:17.686266993Z",
+    "properties" : {
+      "packageName" : "com.mpellouin.timemo",
+      "projectName" : "timemo",
+      "baseName" : "timemo",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  }, {
+    "module" : "spring-boot-tomcat",
+    "date" : "2025-04-07T21:32:17.802746110Z",
+    "properties" : {
+      "packageName" : "com.mpellouin.timemo",
+      "projectName" : "timemo",
+      "baseName" : "timemo",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  }, {
+    "module" : "springdoc-mvc-openapi",
+    "date" : "2025-04-07T21:32:17.946486589Z",
+    "properties" : {
+      "packageName" : "com.mpellouin.timemo",
+      "projectName" : "timemo",
+      "baseName" : "timemo",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  } ]
+}
